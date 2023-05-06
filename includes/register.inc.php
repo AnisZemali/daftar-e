@@ -167,7 +167,7 @@ if (isset($_POST['username'], $_POST['email'], $_POST['p'], $_POST['birthdate'])
                 exit();
             }
         }
-        header('Location: login-doctor.php');
+        header('Location: login-patient.php');
         
         
     }
