@@ -28,10 +28,10 @@
 /**
  * These are the database login details
  */
-define("HOST", "localhost"); 			// The host you want to connect to. 
-define("USER", "root"); 			// The database username. 
-define("PASSWORD", ""); 	// The database password. 
-define("DATABASE", "daftar-e");             // The database name.
+define("HOST", "sql108.epizy.com"); 			// The host you want to connect to. 
+define("USER", "epiz_34301337"); 			// The database username. 
+define("PASSWORD", "yMTlwri93VC"); 	// The database password. 
+define("DATABASE", "epiz_34301337_daftare");            // The database name.
 
 /**
  * Who can register and what the default role will be
