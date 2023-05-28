@@ -7,6 +7,8 @@
     <!-- <link rel="stylesheet" href="css/normalize.css"> -->
     <!-- <link rel="stylesheet" href="css/styles.css"> -->
     <link rel="stylesheet" href="css/style.min.css" />
+<?php
+include 'Pages/header.php' ?>
 
   <body>
 
@@ -235,5 +237,5 @@
     </div>
     <!-- End of main-body -->
   </body>
-
+<?php include 'Pages/footer.php' ?>
 </html>
