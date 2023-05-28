@@ -8,7 +8,7 @@
     <!-- <link rel="stylesheet" href="css/styles.css"> -->
     <link rel="stylesheet" href="css/style.min.css" />
 <?php
-include 'Pages/header.php' ?>
+include 'header.php' ?>
 
   <body>
 
@@ -237,5 +237,5 @@ include 'Pages/header.php' ?>
     </div>
     <!-- End of main-body -->
   </body>
-<?php include 'Pages/footer.php' ?>
+<?php include 'footer.php' ?>
 </html>
